@@ -1,4 +1,4 @@
-# Bwin.Party Developer Test
+# GVC Developer Test
 
 Where possible please code using ES2015 and above.
 
