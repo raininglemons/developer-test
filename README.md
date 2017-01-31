@@ -51,5 +51,4 @@ Build a simple React app that consumes two feeds and outputs a grid list of game
 8. Any CSS can be embedded directly into the **index.html** file
 
 ### Nice to haves
-- Code written in ECMAScript 6 (ES2015)
 - Use of Promises for feed requests
